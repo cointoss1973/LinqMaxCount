@@ -1,5 +1,5 @@
 # LinqMaxCount
-* C# implementation to get the most frequently occurring element from the elements in the list.
+* C# implementation to get the element with the highest number of occurrences from elements in a list.
 
 ## NOTICE
 * MoreLinq 
