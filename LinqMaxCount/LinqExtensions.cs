@@ -74,7 +74,7 @@ namespace LinqMaxCount
     /// <summary>
     /// Unit Test
     /// </summary>
-    public class UnitTest1
+    public class LinqExtensionsUnitTest
     {
         public static IEnumerable<object[]> TestData => new List<object[]>()
         {
