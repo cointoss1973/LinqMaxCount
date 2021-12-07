@@ -21,7 +21,13 @@ Runtime=.NET 6.0  IterationCount=10
 | MaxCount3 |   569.9 ns | 5.18 ns | 3.42 ns |    2 | 0.1631 |   1,368 B |
 |   CountBy |   415.7 ns | 3.94 ns | 2.34 ns |    1 | 0.1040 |     872 B |
 
-## NOTICE
+## Acknowledgements
+The open source software used is as follows.
+
+* BenchmarkDotNet
+  * https://github.com/dotnet/BenchmarkDotNet
+  * The MIT License
+  * Copyright (c) 2013–2021 .NET Foundation and contributors
 * MoreLinq 
   * https://github.com/morelinq/MoreLINQ
   * Apache License 2.0
